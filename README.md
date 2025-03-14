@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devaaum Shah</h1>
-<h3 align="center">A passionate Business Analyst currently working at Deloitte</h3>
+<h3 align="center">A passionate Financial Analyst currently working at Morgan Stanley</h3>
 
-- 🌱 I’m currently learning **Integration of BA Tools with AI**
+- 🌱 I’m currently learning **Integration of FA Tools with AI**
 
-- 💬 Ask me about **SQL, Excel, PowerBI, Tableau, Business Analysis**
+- 💬 Ask me about **SQL, Excel, PowerBI, Tableau, Financial Modeling, Financial Planning and Analysis**
 
 - 📫 How to reach me **devamshah910@gmail.com**
 
